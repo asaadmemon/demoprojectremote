@@ -3,3 +3,5 @@ new file
 changes online
 
 on newtest branch
+
+lfs
